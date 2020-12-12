@@ -2,7 +2,7 @@
 
 ## An introduction to using JupyterLab for data science
 
-Jupyter-lab is the defacto tool for modern reproducible data science in Python. In this short class you will learn how to setup JupyterLab, execute code; control the Juypyter Kernel; and write Markdown.
+Jupyter-lab is the defacto tool for modern reproducible data science in Python. In this short class you will learn how to setup JupyterLab, execute code; control the Jupyter Kernel; and write Markdown.
 
 > This is a general introduction to Jupyter and is useful for any data science course using Linux, Mac or Windows.
 
