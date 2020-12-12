@@ -42,7 +42,7 @@ conda activate hds_learn_jupyter
 * Setting a cell to markdown mode
 * Titles and subtitles
 * Horizontal lines
-* Formatting test as code in markdown
+* Formatting text as code in markdown
 * Bold text and italic text
 * Bullet points and numbers lists
 * Including LaTeX mathematical expressions.
