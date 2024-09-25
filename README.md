@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/health-data-science-OR/jupyterlab-introduction/HEAD)
+
 # An introduction to using JupyterLab for data science
 
 Jupyter-lab is the standard tool for modern reproducible data science in Python. In this short class you will learn how to setup JupyterLab, execute code; control the Jupyter Kernel; write Markdown, and structure Jupyter notebooks.
