@@ -1,8 +1,6 @@
-# HPDM097: Making a difference with health data.  
+# An introduction to using JupyterLab for data science
 
-## An introduction to using JupyterLab for data science
-
-Jupyter-lab is the defacto tool for modern reproducible data science in Python. In this short class you will learn how to setup JupyterLab, execute code; control the Jupyter Kernel; and write Markdown.
+Jupyter-lab is the standard tool for modern reproducible data science in Python. In this short class you will learn how to setup JupyterLab, execute code; control the Jupyter Kernel; write Markdown, and structure Jupyter notebooks.
 
 > This is a general introduction to Jupyter and is useful for any data science course using Linux, Mac or Windows.
 
@@ -10,12 +8,12 @@ Jupyter-lab is the defacto tool for modern reproducible data science in Python. 
 
 * It is recommended that at - a minimum - down and install a Anaconda 3 distribution https://www.anaconda.com/
 * **The default base conda environment is sufficient to run the notebooks in this class.**
-* For those wishing to use the same version of Jupyter and Python, the class is also provided with a conda virtual environment: `hds_learn_jupyter`.  To install the dependences run the following in a terminal:
+* For those wishing to use the same version of Jupyter and Python, the class is also provided with a conda virtual environment: `hds_code`.  To install the dependences run the following in a terminal:
 
 ```
-conda env create -f environment.yml
+conda env create -f binder/environment.yml
 
-conda activate hds_learn_jupyter
+conda activate hds_code
 ```
 
 ---
@@ -36,7 +34,7 @@ conda activate hds_learn_jupyter
 * Running individual cells versus running multiple cells
 * Execution order matters
 * Resetting a kernel
-* Interruping a kernel
+* Interrupting a kernel
 
 ### 3: Markdown
 * Setting a cell to markdown mode
